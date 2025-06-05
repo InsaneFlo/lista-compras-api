@@ -23,6 +23,5 @@ Uma API REST em ASP.NET Core para gerenciameo de listas de compras com recursos 
   -BCrypt.Net (Para hash de senhas)
 
 
-  ```bash
 git clone https://github.com/seu-usuario/lista-compras-api.git
 cd lista-compras-api
