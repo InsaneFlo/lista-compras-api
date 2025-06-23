@@ -1,6 +1,6 @@
 - lista-compras-api -
 
-Uma API REST em ASP.NET Core para gerenciameo de listas de compras com recursos de autenticação, usuários e compartilhamento de listas entre esses usuários.
+Uma API REST em ASP.NET Core para gerenciamento de listas de compras com recursos de autenticação, usuários e compartilhamento de listas entre esses usuários.
 
 
 - Funcionalidades -
